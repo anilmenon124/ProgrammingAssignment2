@@ -51,9 +51,7 @@ inverse <- NULL # inverse starts uncomputed
 ## Write a short comment describing this function
 
 cacheSolve <- function(m, ...) {
-        ## Return a matrix that is the inverse of 'm'
         
-        ## Return a matrix that is the inverse of 'm'
 
  ## Return a matrix that is the inverse of 'm'
      inv <- m$getinverse()
